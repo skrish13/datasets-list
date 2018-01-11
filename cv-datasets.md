@@ -53,3 +53,17 @@ Mostly in order of current significance which is directly proportional to challe
 
 - Youtube-BoundingBoxes
   - https://research.google.com/youtube-bb/
+  
+## Grocery Datasets
+- CMU Grocery Dataset (CMU10_3D) (Kitchen Environment Images)
+  - http://www.cs.cmu.edu/~ehsiao/datasets.html
+- SHORT-100 Grocery Dataset (shopping list)
+  - http://www.bicv.org/datasets/short-100/
+- The Freiburg Groceries Dataset (25 Food categories)
+  - https://github.com/PhilJd/freiburg_groceries_dataset
+- Grocery Products (Cigarette) Dataset (Rack based)
+  - https://github.com/gulvarol/grocerydataset
+- Grozi120 Dataset
+  - http://grozi.calit2.net/grozi.html
+- Grocery Products Dataset (ECCV14)
+  - http://people.inf.ethz.ch/mageorge/
