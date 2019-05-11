@@ -1,5 +1,3 @@
-# datasets-list
-
 # Computer Vision Datasets
 
 Probably this exists elsewhere I guess but contributing there/making sure that its maintained is not easier than creating our own.
