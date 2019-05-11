@@ -34,6 +34,7 @@ Mostly in order of current significance which is directly proportional to challe
   - https://www.kaggle.com/c/imagenet-object-detection-challenge
 - OpenImages
   - 1.6 Million images, 545 trainable classes
+- [GTSDB](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset), [Tsinghua-Tencent-100K](https://github.com/asyncbridge/tsinghua-tencent-100k) -- small object (traffic sign) detection
 
 ## Object Segmentation
 
@@ -55,18 +56,23 @@ Mostly in order of current significance which is directly proportional to challe
   - https://research.google.com/youtube-bb/
   
 ## Grocery Datasets
+
+- SKU100K Dataset (CVPR19)
+  - https://github.com/eg4000/SKU110K_CVPR19
+- Grocery Products Dataset (8k products)  (ECCV14)
+  - https://sites.google.com/view/mariangeorge/datasets
+- CAPG-GP Dataset (102 fine grained products)
+  - http://zju-capg.org/capg-gp.html
 - CMU Grocery Dataset (CMU10_3D) (Kitchen Environment Images)
   - http://www.cs.cmu.edu/~ehsiao/datasets.html
 - SHORT-100 Grocery Dataset (shopping list)
   - http://www.bicv.org/datasets/short-100/
 - The Freiburg Groceries Dataset (25 Food categories)
   - https://github.com/PhilJd/freiburg_groceries_dataset
-- Grocery Products (Cigarette) Dataset (Rack based)
-  - https://github.com/gulvarol/grocerydataset
 - Grozi120 Dataset
-  - http://grozi.calit2.net/grozi.html
-- Grocery Products Dataset (ECCV14)
-  - http://people.inf.ethz.ch/mageorge/
+  - http://grozi.calit2.net/grozi.html  
+- Turkey Cigarette Dataset (Rack based)
+  - https://github.com/gulvarol/grocerydataset
 
 ## Misc
 
