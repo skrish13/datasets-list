@@ -74,6 +74,15 @@ Mostly in order of current significance which is directly proportional to challe
 - Turkey Cigarette Dataset (Rack based)
   - https://github.com/gulvarol/grocerydataset
 
+## Emotion Datasets
+
+- [Multimodal EmotionLines](https://affective-meld.github.io/) :star:
+- [Affect in the Wild](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
+- [One-Minute Gradual-Emotion](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/)
+
+##### Smaller ones (comparitively)
+- [EmotiW](https://sites.google.com/site/emotiwchallenge/)
+
 ## Misc
 
 - [iNaturalist Challenge](https://www.kaggle.com/c/inaturalist-challenge-at-fgvc-2017)
