@@ -57,22 +57,15 @@ Mostly in order of current significance which is directly proportional to challe
   
 ## Grocery Datasets
 
-- SKU100K Dataset (CVPR19)
-  - https://github.com/eg4000/SKU110K_CVPR19
-- Grocery Products Dataset (8k products)  (ECCV14)
-  - https://sites.google.com/view/mariangeorge/datasets
-- CAPG-GP Dataset (102 fine grained products)
-  - http://zju-capg.org/capg-gp.html
-- CMU Grocery Dataset (CMU10_3D) (Kitchen Environment Images)
-  - http://www.cs.cmu.edu/~ehsiao/datasets.html
-- SHORT-100 Grocery Dataset (shopping list)
-  - http://www.bicv.org/datasets/short-100/
-- The Freiburg Groceries Dataset (25 Food categories)
-  - https://github.com/PhilJd/freiburg_groceries_dataset
-- Grozi120 Dataset
-  - http://grozi.calit2.net/grozi.html  
-- Turkey Cigarette Dataset (Rack based)
-  - https://github.com/gulvarol/grocerydataset
+- [SKU100K Dataset](https://github.com/eg4000/SKU110K_CVPR19) (CVPR19)
+- [Grocery Products Dataset](https://sites.google.com/view/mariangeorge/datasets) (8k products)  (ECCV14)
+- [CAPG-GP Dataset](http://zju-capg.org/capg-gp.html) (102 fine grained products)
+- [CMU Grocery Dataset](http://www.cs.cmu.edu/~ehsiao/datasets.html) (CMU10_3D) (Kitchen Environment Images)
+- [SHORT-100 Grocery Dataset](http://www.bicv.org/datasets/short-100/) (shopping list)
+- [The Freiburg Groceries Dataset](https://github.com/PhilJd/freiburg_groceries_dataset) (25 Food categories)
+- [Grozi120 Dataset](http://grozi.calit2.net/grozi.html)
+- [Turkey Cigarette Dataset](https://github.com/gulvarol/grocerydataset) (Rack based)
+- [GMU Kitchen Dataset](https://cs.gmu.edu/~robot/gmu-kitchens.html)
 
 ## Emotion Datasets
 
