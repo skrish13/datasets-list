@@ -50,6 +50,12 @@ Mostly in order of current significance which is directly proportional to challe
 - CalTech Pedestrians [see link for more related "Persons", "Pedestrians"]
 - More to follow
 
+## Visual Relationship
+- Visual Genome
+- [OpenImages](https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track)
+- [Visual-relevant Relationships Dataset](http://vrr-vg.com/)
+- [VidVRD](https://lms.comp.nus.edu.sg/research/VidVRD.html)
+
 ## Video Object Detection
 
 - Youtube-BoundingBoxes
