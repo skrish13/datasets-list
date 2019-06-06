@@ -73,6 +73,11 @@ Mostly in order of current significance which is directly proportional to challe
 - [Turkey Cigarette Dataset](https://github.com/gulvarol/grocerydataset) (Rack based)
 - [GMU Kitchen Dataset](https://cs.gmu.edu/~robot/gmu-kitchens.html)
 
+## Local features/patch matching
+
+- [Multi-view Stereo Correspondence Dataset](https://github.com/osdf/datasets/tree/master/patchdata)
+- [PS-Dataset](https://github.com/rmitra/PS-Dataset/blob/master/DownloadDataset.md)
+
 ## Emotion Datasets
 
 - [Multimodal EmotionLines](https://affective-meld.github.io/) :star:
