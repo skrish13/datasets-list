@@ -36,6 +36,15 @@ Mostly in order of current significance which is directly proportional to challe
   - 1.6 Million images, 545 trainable classes
 - [GTSDB](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset), [Tsinghua-Tencent-100K](https://github.com/asyncbridge/tsinghua-tencent-100k) -- small object (traffic sign) detection
 
+##### Hand Detection
+
+- [VIVA](http://cvrr.ucsd.edu/vivachallenge/index.php/hands/hand-detection/)
+- [Oxford-Hands](http://www.robots.ox.ac.uk/~vgg/data/hands/)
+- [EgoHands](http://vision.soic.indiana.edu/projects/egohands/)
+- [EgoYouTubeHands](https://github.com/aurooj/Hand-Segmentation-in-the-Wild)
+- [GTEA](http://www.cbi.gatech.edu/fpv/)
+- [HandOverFace](https://github.com/aurooj/Hand-Segmentation-in-the-Wild)
+
 ## Object Segmentation
 
 - PASCAL VOC 2007/2012
