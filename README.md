@@ -24,17 +24,18 @@ Mostly in order of current significance which is directly proportional to challe
   
 ## Object Detection
 
-- PASCAL VOC 2007/2012
-  - 20 Classes (5k train, 8k val, 5k test? not sure about test)
-  - http://host.robots.ox.ac.uk/pascal/VOC/
-- Microsoft COCO
-  - 330k images, >200k labeled, 80 Classes
-  - http://cocodataset.org/#home
-- ImageNet Object Detection
-  - https://www.kaggle.com/c/imagenet-object-detection-challenge
-- OpenImages
-  - 1.6 Million images, 545 trainable classes
+- [PASCAL VOC 2007/2012](http://host.robots.ox.ac.uk/pascal/VOC/); 20 Classes (5k train, 8k val, 5k test? not sure about test)
+- [Microsoft COCO](http://cocodataset.org/#home); 330k images, >200k labeled, 80 Classes
+- [ImageNet Object Detection](https://www.kaggle.com/c/imagenet-object-detection-challenge)
+- OpenImages; 1.6 Million images, 545 trainable classes
 - [GTSDB](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset), [Tsinghua-Tencent-100K](https://github.com/asyncbridge/tsinghua-tencent-100k) -- small object (traffic sign) detection
+
+##### Logo Detection
+- [PL2K Dataset](https://arxiv.org/abs/1811.08009)
+- [WebLogo-2M Dataset](http://www.eecs.qmul.ac.uk/~hs308/WebLogo-2M.html/)
+- [FlickrLogo-32](http://www.multimedia-computing.de/flickrlogos/): A total of 32 logo classes, 70 images per class.
+- [TopLogo-10](http://www.eecs.qmul.ac.uk/~hs308/qmul_toplogo10.html/): A total of 10 logo classes, 70 images per class.
+- [OpenLogo Challenge](http://www.eecs.qmul.ac.uk/~hs308/WebLogo-2M.html/qmul-openlogo.github.io/): A total of 352 logo classes, 27,083 images total.
 
 ## Object Segmentation
 
