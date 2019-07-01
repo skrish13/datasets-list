@@ -35,7 +35,7 @@ Mostly in order of current significance which is directly proportional to challe
 - [WebLogo-2M Dataset](http://www.eecs.qmul.ac.uk/~hs308/WebLogo-2M.html/)
 - [FlickrLogo-32](http://www.multimedia-computing.de/flickrlogos/): A total of 32 logo classes, 70 images per class.
 - [TopLogo-10](http://www.eecs.qmul.ac.uk/~hs308/qmul_toplogo10.html/): A total of 10 logo classes, 70 images per class.
-- [OpenLogo Challenge](http://www.eecs.qmul.ac.uk/~hs308/WebLogo-2M.html/qmul-openlogo.github.io/): A total of 352 logo classes, 27,083 images total.
+- [OpenLogo Challenge](https://www.qmul-openlogo.github.io/): A total of 352 logo classes, 27,083 images total.
 
 ## Object Segmentation
 
