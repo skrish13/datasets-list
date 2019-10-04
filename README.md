@@ -83,11 +83,13 @@ Mostly in order of current significance which is directly proportional to challe
 - [Grozi120 Dataset](http://grozi.calit2.net/grozi.html)
 - [Turkey Cigarette Dataset](https://github.com/gulvarol/grocerydataset) (Rack based)
 - [GMU Kitchen Dataset](https://cs.gmu.edu/~robot/gmu-kitchens.html)
+- [WebMarket](http://yuhang.rsise.anu.edu.au/)
 
 ## Local features/patch matching
 
 - [Multi-view Stereo Correspondence Dataset](https://github.com/osdf/datasets/tree/master/patchdata)
 - [PS-Dataset](https://github.com/rmitra/PS-Dataset/blob/master/DownloadDataset.md)
+- [Mikolajczyk et al](http://www.robots.ox.ac.uk/~vgg/research/affine/)
 
 ## Emotion Datasets
 
