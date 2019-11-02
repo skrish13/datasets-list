@@ -77,13 +77,13 @@ Mostly in order of current significance which is directly proportional to challe
 - [SKU100K Dataset](https://github.com/eg4000/SKU110K_CVPR19) (CVPR19)
 - [Grocery Products Dataset](https://sites.google.com/view/mariangeorge/datasets) (8k products)  (ECCV14)
 - [CAPG-GP Dataset](http://zju-capg.org/capg-gp.html) (102 fine grained products)
-- [CMU Grocery Dataset](http://www.cs.cmu.edu/~ehsiao/datasets.html) (CMU10_3D) (Kitchen Environment Images)
-- [SHORT-100 Grocery Dataset](http://www.bicv.org/datasets/short-100/) (shopping list)
-- [The Freiburg Groceries Dataset](https://github.com/PhilJd/freiburg_groceries_dataset) (25 Food categories)
 - [Grozi120 Dataset](http://grozi.calit2.net/grozi.html)
-- [Turkey Cigarette Dataset](https://github.com/gulvarol/grocerydataset) (Rack based)
-- [GMU Kitchen Dataset](https://cs.gmu.edu/~robot/gmu-kitchens.html)
+- [Tobacco Shelves Dataset](https://github.com/gulvarol/grocerydataset) (Rack based)
 - [WebMarket](http://yuhang.rsise.anu.edu.au/)
+- [The Freiburg Groceries Dataset](https://github.com/PhilJd/freiburg_groceries_dataset) (25 Food categories)
+- [SHORT-100 Grocery Dataset](http://www.bicv.org/datasets/short-100/) (shopping list)
+- [CMU Grocery Dataset](http://www.cs.cmu.edu/~ehsiao/datasets.html) (CMU10_3D) (Kitchen Environment Images)
+- [GMU Kitchen Dataset](https://cs.gmu.edu/~robot/gmu-kitchens.html)
 
 ## Local features/patch matching
 
