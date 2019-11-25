@@ -69,8 +69,7 @@ Mostly in order of current significance which is directly proportional to challe
 
 ## Video Object Detection
 
-- Youtube-BoundingBoxes
-  - https://research.google.com/youtube-bb/
+- [Youtube-BoundingBoxes](https://research.google.com/youtube-bb/)
   
 ## Grocery Datasets
 
