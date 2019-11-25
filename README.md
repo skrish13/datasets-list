@@ -80,6 +80,7 @@ Mostly in order of current significance which is directly proportional to challe
 - [Grozi120 Dataset](http://grozi.calit2.net/grozi.html)
 - [Tobacco Shelves Dataset](https://github.com/gulvarol/grocerydataset) (Rack based)
 - [WebMarket](http://yuhang.rsise.anu.edu.au/)
+- [Selecta Vending Machine](https://github.com/tobiagru/ObjectDetectionGroceryProducts)
 - [Hierarchical Grocery Store Image Dataset](https://github.com/marcusklasson/GroceryStoreDataset) (WACV19)
 - [The Freiburg Groceries Dataset](https://github.com/PhilJd/freiburg_groceries_dataset) (25 Food categories)
 - [SHORT-100 Grocery Dataset](http://www.bicv.org/datasets/short-100/) (shopping list)
