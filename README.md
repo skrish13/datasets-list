@@ -7,19 +7,13 @@ Mostly in order of current significance which is directly proportional to challe
 
 ## Classification
 
-
-- OpenImages
+- [OpenImages](https://github.com/openimages/dataset)
   - 9 million images, 5000 trainable labels
-  - https://github.com/openimages/dataset
-- ImageNet
-  - www.image-net.org
+- [ImageNet](www.image-net.org)
   - 1 million images, 1000 labels  
-- CIFAR10/CIFAR100
-  - 32x32
-  - 60,000/10 Classes :: 60,000/100 Classes
-  - https://www.cs.toronto.edu/~kriz/cifar.html
-- TinyImages
-  - http://horatio.cs.nyu.edu/mit/tiny/data/index.html
+- [CIFAR10/CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)
+  - 32x32 images; 60,000/10 Classes; 60,000/100 Classes
+- [TinyImages](http://horatio.cs.nyu.edu/mit/tiny/data/index.html)
   - Source of CIFAR Dataset's creation
   
 ## Object Detection
@@ -62,7 +56,7 @@ Mostly in order of current significance which is directly proportional to challe
 - More to follow
 
 ## Visual Relationship
-- Visual Genome
+- [Visual Genome](https://visualgenome.org/)
 - [OpenImages](https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track)
 - [Visual-relevant Relationships Dataset](http://vrr-vg.com/)
 - [VidVRD](https://lms.comp.nus.edu.sg/research/VidVRD.html)
@@ -85,6 +79,7 @@ Mostly in order of current significance which is directly proportional to challe
 - [SHORT-100 Grocery Dataset](http://www.bicv.org/datasets/short-100/) (shopping list)
 - [CMU Grocery Dataset](http://www.cs.cmu.edu/~ehsiao/datasets.html) (CMU10_3D) (Kitchen Environment Images)
 - [GMU Kitchen Dataset](https://cs.gmu.edu/~robot/gmu-kitchens.html)
+- [BigBIRD: (Big) Berkeley Instance Recognition Dataset](http://rll.berkeley.edu/bigbird/aliases/64fa655f65/)
 
 ## Local features/patch matching
 
