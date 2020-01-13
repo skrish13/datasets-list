@@ -7,14 +7,10 @@ Mostly in order of current significance which is directly proportional to challe
 
 ## Classification
 
-- [OpenImages](https://github.com/openimages/dataset)
-  - 9 million images, 5000 trainable labels
-- [ImageNet](www.image-net.org)
-  - 1 million images, 1000 labels  
-- [CIFAR10/CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)
-  - 32x32 images; 60,000/10 Classes; 60,000/100 Classes
-- [TinyImages](http://horatio.cs.nyu.edu/mit/tiny/data/index.html)
-  - Source of CIFAR Dataset's creation
+- [OpenImages](https://github.com/openimages/dataset); 9 million images, 5000 trainable labels
+- [ImageNet](www.image-net.org); 1 million images, 1000 labels  
+- [CIFAR10/CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html); 32x32 images; 60,000/10 Classes; 60,000/100 Classes
+- [TinyImages](http://horatio.cs.nyu.edu/mit/tiny/data/index.html); Source of CIFAR Dataset's creation
   
 ## Object Detection
 
@@ -53,7 +49,9 @@ Mostly in order of current significance which is directly proportional to challe
 - KITTI Dataset
 - CamVid
 - CalTech Pedestrians [see link for more related "Persons", "Pedestrians"]
-- More to follow
+
+##### Very specific
+- [Synthetic Vehicle Interior Rear Seat Occupancy Dataset](https://sviro.kl.dfki.de/)
 
 ## Visual Relationship
 - [Visual Genome](https://visualgenome.org/)
