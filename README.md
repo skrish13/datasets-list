@@ -49,6 +49,7 @@ Mostly in order of current significance which is directly proportional to challe
 - KITTI Dataset
 - CamVid
 - CalTech Pedestrians [see link for more related "Persons", "Pedestrians"]
+- [Argoverse](https://www.argoverse.org/index.html)
 
 ##### Very specific
 - [Synthetic Vehicle Interior Rear Seat Occupancy Dataset](https://sviro.kl.dfki.de/)
