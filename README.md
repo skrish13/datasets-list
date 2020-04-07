@@ -33,6 +33,10 @@ Mostly in order of current significance which is directly proportional to challe
 - Microsoft COCO segmentation
 - ImageNet Object Localization
 
+##### Part Detection
+- [PASCAL-Parts](http://roozbehm.info/pascal-parts/pascal-parts.html)
+- [VehicleSemanticParts](https://drive.google.com/file/d/1FU6Jw27yUj5XIVRt1Gj9z6Fb064wI3UE/view?usp=sharing) - [Jianyu Wang](http://www.jianyuwang.org/)
+
 ##### Hand Segmentation/Detection
 
   - [VIVA](http://cvrr.ucsd.edu/vivachallenge/index.php/hands/hand-detection/)
