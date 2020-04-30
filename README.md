@@ -100,6 +100,13 @@ Mostly in order of current significance which is directly proportional to challe
 ##### Smaller ones (comparitively)
 - [EmotiW](https://sites.google.com/site/emotiwchallenge/)
 
+## Audio-Visual Datasets
+
+- [VGG-Sound](http://www.robots.ox.ac.uk/~vgg/data/vggsound/)
+- [VoxCeleb](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
+- [VIS](http://andrewowens.com/vis/) (Synthesizing audio for a given clip frames)
+- [MUSIC-SoP](https://github.com/roudimit/MUSIC_dataset)
+
 ## Misc
 
 - [iNaturalist Challenge](https://www.kaggle.com/c/inaturalist-challenge-at-fgvc-2017)
