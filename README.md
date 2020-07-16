@@ -102,6 +102,7 @@ Mostly in order of current significance which is directly proportional to challe
 
 ## Audio-Visual Datasets
 
+- [VoxConverse](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/)
 - [VGG-Sound](http://www.robots.ox.ac.uk/~vgg/data/vggsound/)
 - [VoxCeleb](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 - [VIS](http://andrewowens.com/vis/) (Synthesizing audio for a given clip frames)
