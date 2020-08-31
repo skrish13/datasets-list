@@ -70,20 +70,22 @@ Mostly in order of current significance which is directly proportional to challe
   
 ## Grocery Datasets
 
-- [RP2K Dataset](https://www.pinlandata.com/rp2k_dataset)
+- [RP2K Dataset](https://www.pinlandata.com/rp2k_dataset) (2.3k products) (NeurIPS20?)
 - [SKU100K Dataset](https://github.com/eg4000/SKU110K_CVPR19) (CVPR19)
 - [Grocery Products Dataset](https://sites.google.com/view/mariangeorge/datasets) (8k products)  (ECCV14)
 - [CAPG-GP Dataset](http://zju-capg.org/capg-gp.html) (102 fine grained products)
 - [Grozi120 Dataset](http://grozi.calit2.net/grozi.html)
 - [Tobacco Shelves Dataset](https://github.com/gulvarol/grocerydataset) (Rack based)
 - [WebMarket](http://yuhang.rsise.anu.edu.au/)
-- [Selecta Vending Machine](https://github.com/tobiagru/ObjectDetectionGroceryProducts)
+- [HoloSelecta Vending Machines](https://github.com/tobiagru/ObjectDetectionGroceryProducts)
 - [Hierarchical Grocery Store Image Dataset](https://github.com/marcusklasson/GroceryStoreDataset) (WACV19)
 - [The Freiburg Groceries Dataset](https://github.com/PhilJd/freiburg_groceries_dataset) (25 Food categories)
 - [SHORT-100 Grocery Dataset](http://www.bicv.org/datasets/short-100/) (shopping list)
 - [CMU Grocery Dataset](http://www.cs.cmu.edu/~ehsiao/datasets.html) (CMU10_3D) (Kitchen Environment Images)
 - [GMU Kitchen Dataset](https://cs.gmu.edu/~robot/gmu-kitchens.html)
 - [BigBIRD: (Big) Berkeley Instance Recognition Dataset](http://rll.berkeley.edu/bigbird/aliases/64fa655f65/)
+- [Retail Products Checkout](https://rpc-dataset.github.io/)
+- [MVTec D2S Checkout](https://www.mvtec.com/company/research/datasets/mvtec-d2s/)
 
 ## Local features/patch matching
 
