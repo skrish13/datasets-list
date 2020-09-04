@@ -87,6 +87,10 @@ Mostly in order of current significance which is directly proportional to challe
 - [Retail Products Checkout](https://rpc-dataset.github.io/)
 - [MVTec D2S Checkout](https://www.mvtec.com/company/research/datasets/mvtec-d2s/)
 
+##### E-commerce
+- [AliProducts-3M](https://tianchi.aliyun.com/competition/entrance/231780/introduction)
+- [Cdiscount](https://www.kaggle.com/c/cdiscount-image-classification-challenge/overview)
+
 ## Local features/patch matching
 
 - [Multi-view Stereo Correspondence Dataset](https://github.com/osdf/datasets/tree/master/patchdata)
