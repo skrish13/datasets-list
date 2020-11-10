@@ -70,7 +70,7 @@ Mostly in order of current significance which is directly proportional to challe
   
 ## Grocery Datasets
 
-- [RP2K Dataset](https://www.pinlandata.com/rp2k_dataset) (2.3k products) (NeurIPS20?)
+- [RP2K Dataset](https://www.pinlandata.com/rp2k_dataset) (2.3k products)
 - [SKU100K Dataset](https://github.com/eg4000/SKU110K_CVPR19) (CVPR19)
 - [Grocery Products Dataset](https://sites.google.com/view/mariangeorge/datasets) (8k products)  (ECCV14)
 - [CAPG-GP Dataset](http://zju-capg.org/capg-gp.html) (102 fine grained products)
@@ -90,6 +90,7 @@ Mostly in order of current significance which is directly proportional to challe
 ##### E-commerce
 - [AliProducts-3M](https://tianchi.aliyun.com/competition/entrance/231780/introduction)
 - [Cdiscount](https://www.kaggle.com/c/cdiscount-image-classification-challenge/overview)
+- [JD-10k](https://products-10k.github.io/)
 - [Perfect-500k](https://challenge2018.perfectcorp.com)
 - [Stanford Online Products](https://cvgl.stanford.edu/projects/lifted_struct/)
 - [INSTRE](http://vipl.ict.ac.cn/homepage/jsq/Resource-E.html)
