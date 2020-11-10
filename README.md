@@ -90,6 +90,10 @@ Mostly in order of current significance which is directly proportional to challe
 ##### E-commerce
 - [AliProducts-3M](https://tianchi.aliyun.com/competition/entrance/231780/introduction)
 - [Cdiscount](https://www.kaggle.com/c/cdiscount-image-classification-challenge/overview)
+- [Perfect-500k](https://challenge2018.perfectcorp.com)
+- [Stanford Online Products](https://cvgl.stanford.edu/projects/lifted_struct/)
+- [INSTRE](http://vipl.ict.ac.cn/homepage/jsq/Resource-E.html)
+
 
 ## Local features/patch matching
 
