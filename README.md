@@ -71,6 +71,7 @@ Mostly in order of current significance which is directly proportional to challe
 ## Grocery Datasets
 
 - [RP2K Dataset](https://www.pinlandata.com/rp2k_dataset) (2.3k products)
+- [Clobotics-retail50k](https://github.com/clobotics/piou/tree/master/retail50k) (shelf polygons tagged)
 - [SKU100K Dataset](https://github.com/eg4000/SKU110K_CVPR19) (CVPR19)
 - [Grocery Products Dataset](https://sites.google.com/view/mariangeorge/datasets) (8k products)  (ECCV14)
 - [CAPG-GP Dataset](http://zju-capg.org/capg-gp.html) (102 fine grained products)
