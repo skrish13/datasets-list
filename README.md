@@ -89,6 +89,7 @@ Mostly in order of current significance which is directly proportional to challe
 - [MVTec D2S Checkout](https://www.mvtec.com/company/research/datasets/mvtec-d2s/)
 
 ##### E-commerce
+- [Shopee](https://www.kaggle.com/c/shopee-product-matching/data)
 - [AliProducts-3M](https://tianchi.aliyun.com/competition/entrance/231780/introduction)
 - [Cdiscount](https://www.kaggle.com/c/cdiscount-image-classification-challenge/overview)
 - [JD-10k](https://products-10k.github.io/)
