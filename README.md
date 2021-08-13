@@ -5,6 +5,38 @@ Making it comprehensive with full detailes takes time so will do it over time. J
 Some of the datasets has multiple tracks, like classification and segmentation and detection, so refer to the link from above categories if repeated.
 Mostly in order of current significance which is directly proportional to challenging nature/size of dataset.
 
+## Retail & Grocery Datasets
+
+- [RP2K Dataset](https://www.pinlandata.com/rp2k_dataset) (2.3k products)
+- [Clobotics-retail50k](https://github.com/clobotics/piou/tree/master/retail50k) (shelf polygons tagged)
+- [SKU100K Dataset](https://github.com/eg4000/SKU110K_CVPR19) (CVPR19)
+- [Grocery Products Dataset](https://sites.google.com/view/mariangeorge/datasets) (8k products)  (ECCV14)
+- [CAPG-GP Dataset](http://zju-capg.org/capg-gp.html) (102 fine grained products)
+- [Grozi120 Dataset](http://grozi.calit2.net/grozi.html)
+- [Tobacco Shelves Dataset](https://github.com/gulvarol/grocerydataset) (Rack based)
+- [WebMarket](http://yuhang.rsise.anu.edu.au/)
+- [HoloSelecta Vending Machines](https://github.com/tobiagru/ObjectDetectionGroceryProducts)
+- [Hierarchical Grocery Store Image Dataset](https://github.com/marcusklasson/GroceryStoreDataset) (WACV19)
+- [The Freiburg Groceries Dataset](https://github.com/PhilJd/freiburg_groceries_dataset) (25 Food categories)
+- [SHORT-100 Grocery Dataset](http://www.bicv.org/datasets/short-100/) (shopping list)
+- [CMU Grocery Dataset](http://www.cs.cmu.edu/~ehsiao/datasets.html) (CMU10_3D) (Kitchen Environment Images)
+- [GMU Kitchen Dataset](https://cs.gmu.edu/~robot/gmu-kitchens.html)
+- [BigBIRD: (Big) Berkeley Instance Recognition Dataset](http://rll.berkeley.edu/bigbird/aliases/64fa655f65/)
+- [Retail Products Checkout](https://rpc-dataset.github.io/)
+- [MVTec D2S Checkout](https://www.mvtec.com/company/research/datasets/mvtec-d2s/)
+
+##### E-commerce
+- [Amazon Product Dataset (2M)](https://drive.google.com/file/d/1SgSbVnvXLHKEhAjdlmQbwMWiC9HLl0DN/view)
+- [Amazon Berkeley Objects (ABO) - Catalogue, 360 Images and 3D Models](https://amazon-berkeley-objects.s3.amazonaws.com/index.html)
+- [eBay Product Search (1.3M)](https://eval.ai/web/challenges/challenge-page/888/overview)
+- [Shopee](https://www.kaggle.com/c/shopee-product-matching/data)
+- [AliProducts-3M](https://tianchi.aliyun.com/competition/entrance/231780/introduction)
+- [Cdiscount](https://www.kaggle.com/c/cdiscount-image-classification-challenge/overview)
+- [JD-10k](https://products-10k.github.io/)
+- [Perfect-500k](https://challenge2018.perfectcorp.com)
+- [Stanford Online Products](https://cvgl.stanford.edu/projects/lifted_struct/)
+- [INSTRE](http://vipl.ict.ac.cn/homepage/jsq/Resource-E.html)
+
 ## Classification
 
 - [OpenImages](https://github.com/openimages/dataset); 9 million images, 5000 trainable labels
@@ -67,36 +99,6 @@ Mostly in order of current significance which is directly proportional to challe
 ## Video Object Detection
 
 - [Youtube-BoundingBoxes](https://research.google.com/youtube-bb/)
-  
-## Grocery Datasets
-
-- [RP2K Dataset](https://www.pinlandata.com/rp2k_dataset) (2.3k products)
-- [Clobotics-retail50k](https://github.com/clobotics/piou/tree/master/retail50k) (shelf polygons tagged)
-- [SKU100K Dataset](https://github.com/eg4000/SKU110K_CVPR19) (CVPR19)
-- [Grocery Products Dataset](https://sites.google.com/view/mariangeorge/datasets) (8k products)  (ECCV14)
-- [CAPG-GP Dataset](http://zju-capg.org/capg-gp.html) (102 fine grained products)
-- [Grozi120 Dataset](http://grozi.calit2.net/grozi.html)
-- [Tobacco Shelves Dataset](https://github.com/gulvarol/grocerydataset) (Rack based)
-- [WebMarket](http://yuhang.rsise.anu.edu.au/)
-- [HoloSelecta Vending Machines](https://github.com/tobiagru/ObjectDetectionGroceryProducts)
-- [Hierarchical Grocery Store Image Dataset](https://github.com/marcusklasson/GroceryStoreDataset) (WACV19)
-- [The Freiburg Groceries Dataset](https://github.com/PhilJd/freiburg_groceries_dataset) (25 Food categories)
-- [SHORT-100 Grocery Dataset](http://www.bicv.org/datasets/short-100/) (shopping list)
-- [CMU Grocery Dataset](http://www.cs.cmu.edu/~ehsiao/datasets.html) (CMU10_3D) (Kitchen Environment Images)
-- [GMU Kitchen Dataset](https://cs.gmu.edu/~robot/gmu-kitchens.html)
-- [BigBIRD: (Big) Berkeley Instance Recognition Dataset](http://rll.berkeley.edu/bigbird/aliases/64fa655f65/)
-- [Retail Products Checkout](https://rpc-dataset.github.io/)
-- [MVTec D2S Checkout](https://www.mvtec.com/company/research/datasets/mvtec-d2s/)
-
-##### E-commerce
-- [Shopee](https://www.kaggle.com/c/shopee-product-matching/data)
-- [AliProducts-3M](https://tianchi.aliyun.com/competition/entrance/231780/introduction)
-- [Cdiscount](https://www.kaggle.com/c/cdiscount-image-classification-challenge/overview)
-- [JD-10k](https://products-10k.github.io/)
-- [Perfect-500k](https://challenge2018.perfectcorp.com)
-- [Stanford Online Products](https://cvgl.stanford.edu/projects/lifted_struct/)
-- [INSTRE](http://vipl.ict.ac.cn/homepage/jsq/Resource-E.html)
-
 
 ## Local features/patch matching
 
