@@ -26,6 +26,7 @@ Mostly in order of current significance which is directly proportional to challe
 - [MVTec D2S Checkout](https://www.mvtec.com/company/research/datasets/mvtec-d2s/)
 
 ##### E-commerce
+- [AliBaba-M5](https://xiaodongsuper.github.io/M5Product_dataset/index.html)
 - [Amazon Product Dataset (2M)](https://drive.google.com/file/d/1SgSbVnvXLHKEhAjdlmQbwMWiC9HLl0DN/view)
 - [Amazon Berkeley Objects (ABO) - Catalogue, 360 Images and 3D Models](https://amazon-berkeley-objects.s3.amazonaws.com/index.html)
 - [eBay Product Search (1.3M)](https://eval.ai/web/challenges/challenge-page/888/overview)
