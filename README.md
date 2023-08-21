@@ -31,7 +31,7 @@ Mostly in order of current significance which is directly proportional to challe
 - [Amazon Berkeley Objects (ABO) - Catalogue, 360 Images and 3D Models](https://amazon-berkeley-objects.s3.amazonaws.com/index.html)
 - [eBay Product Search (1.3M)](https://eval.ai/web/challenges/challenge-page/888/overview)
 - [Shopee](https://www.kaggle.com/c/shopee-product-matching/data)
-- [AliProducts-3M](https://tianchi.aliyun.com/competition/entrance/231780/introduction)
+- [AliProducts-5M](https://tianchi.aliyun.com/competition/entrance/532077/information)
 - [Cdiscount](https://www.kaggle.com/c/cdiscount-image-classification-challenge/overview)
 - [JD-10k](https://products-10k.github.io/)
 - [Perfect-500k](https://challenge2018.perfectcorp.com)
